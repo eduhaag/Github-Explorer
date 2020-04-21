@@ -33,6 +33,7 @@ Como fonte dos dados, a aplicação utiliza a API do Github. Além disso para se
 - [React.js](http://react.org)
 - [react-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
 - [Styled Components](https://styled-components.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ---
 
