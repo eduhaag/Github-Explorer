@@ -1,8 +1,10 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" /><br/>
+<br>
 
 <p align="center">
   <img alt="Github Explorer" src="src/assets/logo.svg" />
 </p>
+<br>
 
 <p align="center">
   <a href="#--sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
